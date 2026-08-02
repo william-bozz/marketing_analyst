@@ -3,3 +3,4 @@ data/*.csv
 scripts/.ipynb_checkpoints/
 venv/
 __pycache__/
+.env
